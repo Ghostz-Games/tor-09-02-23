@@ -1,4 +1,4 @@
-//Task 3:
+//TaskThree:
 //3.a make 2 integer variable named a and b, Print "Success!" if either of them is equal to 10 or if the sum is. If not, print "Failure!".
 int a = 2;
 int b = 12;

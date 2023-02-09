@@ -1,4 +1,4 @@
-//Task 2
+//TaskTwo
 //2.a store your name in a variable and print it:
 String name = "Nicklas Waldemar Seier Winther";
 println(name);
