@@ -26,7 +26,7 @@ void draw() {
     light3 = off;
     break;
   case 100:
-    light1 = off;
+    light1 = red;
     light2 = yellow;
     light3 = off;
     break;
@@ -34,6 +34,11 @@ void draw() {
      light1 = off;
      light2 = off;
      light3 = green;
+     break;
+   case 250:
+     light1 = off;
+     light2 = yellow;
+     light3 = off;
      break;
   }
   fill(light1);
